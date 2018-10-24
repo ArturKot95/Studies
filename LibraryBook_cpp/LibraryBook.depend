@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1490105517 source:/Users/artur/Desktop/LibraryBook/LibraryBook/src/Book.cpp
+	"Book.h"
+	<iostream>
+	<string.h>
+
+1490105535 /Users/artur/Desktop/LibraryBook/LibraryBook/include/Book.h
+	<string>
+
+1490105686 source:/Users/artur/Desktop/LibraryBook/LibraryBook/main.cpp
+	<iostream>
+	"Book.h"
+
